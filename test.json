@@ -1,5 +1,5 @@
 {
-  nombre : "Francisco",
-  apellidos : "Romero",
-  ciclo : "DAW"
+  "nombre" : "Francisco",
+  "apellidos" : "Romero",
+  "ciclo" : "DAW"
 }
