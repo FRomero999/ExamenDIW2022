@@ -1,5 +1,4 @@
-{
-  "datos":[
+[
     {
         "nombre": "Johnathan",
         "apellidos": "Ebert",
@@ -28,4 +27,3 @@
         "actividad": "alta"
     }
 ]
-}
