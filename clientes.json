@@ -1,0 +1,29 @@
+[
+    {
+        "nombre": "Johnathan",
+        "apellidos": "Ebert",
+        "sexo": "hombre",
+        "edad": 45,
+        "peso": 97,
+        "altura": 178,
+        "actividad": "sedentaria"
+    },
+    {
+        "nombre": "Fermin",
+        "apellidos": "Kris",
+        "sexo": "mujer",
+        "edad": 28,
+        "peso": 65,
+        "altura": 179,
+        "actividad": "alta"
+    },
+        {
+        "nombre": "Ann",
+        "apellidos": "Takamaki",
+        "sexo": "mujer",
+        "edad": 17,
+        "peso": 48,
+        "altura": 170,
+        "actividad": "alta"
+    },
+]
