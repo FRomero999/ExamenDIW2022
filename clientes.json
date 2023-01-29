@@ -15,7 +15,7 @@
         "edad": 28,
         "peso": 65,
         "altura": 179,
-        "actividad": "alta"
+        "actividad": "media"
     },
         {
         "nombre": "Ann",
@@ -24,6 +24,6 @@
         "edad": 17,
         "peso": 48,
         "altura": 170,
-        "actividad": "alta"
+        "actividad": "intensa"
     }
 ]
